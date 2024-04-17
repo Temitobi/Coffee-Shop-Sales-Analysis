@@ -58,7 +58,7 @@ It contains the transaction id of every customer and their order description.
 10.	Recommendations: Based on the analysis, recommendations for strategies to improve the coffee shop sales were made.
 
 ## DATA VISUALIZATION
-![img](Dashboard-3.PNG)
+![img](Dashboard.PNG)
 ![img](Dashboard2-1.PNG) 
 ![img](Dashboard3-1.PNG)
 
