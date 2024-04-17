@@ -1,6 +1,6 @@
-# COFFEE SHOP SALES ANALYSIS
+# Analysis of the 6months Sales Data of Anonym Coffee Shop
 ## OVERVIEW
-This dataset contains the 6months sales data of a XYZ coffee shop in the year 2023. The data covers a range of variations in sales distribution, transaction history, trends and patterns, as well as geographical and customer segmentation of the coffee shop sales in the given period. 
+This dataset contains the 6months sales data of a Anonym coffee shop in the year 2023. The data covers a range of variations in sales distribution, transaction history, trends and patterns, as well as geographical and customer segmentation of the coffee shop sales in the given period. 
 
 ## AIM
 The aim of analyzing this data is to extract actionable insights and valuable information that can be used to improve various aspects of coffee shop sales operations and strategy. 
@@ -58,7 +58,9 @@ It contains the transaction id of every customer and their order description.
 10.	Recommendations: Based on the analysis, recommendations for strategies to improve the coffee shop sales were made.
 
 ## DATA VISUALIZATION
-Ribbon Chart, Bar chart, Pie chart, Doughnut chart, Card, Table and Area chart were used for the visualizations.
+![img](Dashboard-1.PNG) 
+![img](Dashboard2-1.PNG) 
+![img](Dashboard3-1.PNG)
 
 ## INSIGTHS
 > - The total sales generated in the coffee shop sales data is $698,496.
